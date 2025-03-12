@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    
-    <title>Stopwatch</title>
-   
-</head>
 <body>
     <div class="stopwatch">
         <div id="display">00:00:00</div>
