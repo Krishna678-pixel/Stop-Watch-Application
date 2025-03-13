@@ -10,7 +10,8 @@
         
     </div>
     <button id="restartButton">Restart</button>
-   </body>
+   
+</body>
 </html>
 
 #tic-tac-toe {
